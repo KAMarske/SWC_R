@@ -1,7 +1,8 @@
 #What: SWC workshop
 #When: October 18, 2016
 #Who: Katharine Marske
-
+#Where: Hatcher library, UM
+#Packages necessary
 
 install.packages(c('RSQLite', 'dplyr', 'tidyr', 'ggplot'))
 library (RSQLite)
